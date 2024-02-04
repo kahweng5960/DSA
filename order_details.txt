@@ -1,0 +1,5 @@
+1 Espresso_Blend more_sugar big_cup 1 24.99 24.99 39
+2 Espresso_Intenso no_sugar small_cup 1 13.99 13.99 40
+3 Espresso_Blend more_sugar big_cup 1 24.55 24.55 41
+4 Bird-Friendly_Blend less_sugar medium_cup 2 17.99 35.98 1
+5 Fair_Trade_Reserve_Blend no_sugar small_cup 1 9.99 9.99 2
